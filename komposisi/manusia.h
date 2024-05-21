@@ -8,7 +8,7 @@ class manusia {
         jantung varJantung;
 
         manusia(string pName): name(pName) {
-            cout << name << "hidup" << endl;
+            cout << name << "hidup\n";
         }
 
         ~manusia(){
